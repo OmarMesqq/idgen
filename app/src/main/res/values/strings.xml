@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gerador de CPF</string>
+    <string name="mainButton">Button</string>
+    <string name="botaoGerador">Gerar CPF</string>
+</resources>
